@@ -22,5 +22,5 @@ A personal desktop AI assistant using Gemma 3n and Python. Built with Tkinter GU
 3. Make sure LM Studio is running Gemma 3n on `http://localhost:1234`
 
 ## Demo Video
-👉 [Link to Demo](YOUR_VIDEO_LINK_HERE)
+👉 [Link to Demo](https://youtu.be/4bH6PYtviDs)
 
